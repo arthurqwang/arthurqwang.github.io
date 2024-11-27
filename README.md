@@ -1,15 +1,6 @@
-<table border="10">
-  <tr>
-    <td><img alt="Arthur Pic" src="wq-bsv200.jpg"></td>
-    <td>
-      <br>
-        ## A Thinker Keeping Coding: taking a plunger, and claiming being able to drain water<br><br>
+<img alt="Arthur Pic" src="wq-bsv200.jpg">
+## A Thinker Keeping Coding: taking a plunger, and claiming being able to drain water<br><br>
 ## 坚持编程的思想者：手拿皮搋子，号称会通下水道
-    </td>
-  </tr>
-</table>
-
-
 
 #### [中文🔃](#english)
 # About Me
