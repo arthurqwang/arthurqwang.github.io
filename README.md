@@ -1,6 +1,6 @@
 <table border="10">
   <tr>
-    <td><img alt="BSV Logo" src="wq_bsv200.jpg"></td>
+    <td><img alt="Arthur Pic" src="wq-bsv200.jpg"></td>
     <td>
       <br>
         ## A Thinker Keeping Coding: taking a plunger, and claiming being able to drain water<br><br>
