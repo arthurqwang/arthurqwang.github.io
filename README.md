@@ -42,6 +42,7 @@
 
 ### ☑️ As the Proposer / Doer of Concept of [Digital Oilfield]
 <table border="10">
+  <tr>
     <td>
     <br>
     In 1999, proposed the concept of Digital Oilfield at first globally.<br><br>
@@ -64,6 +65,7 @@ In 2013, jointly established the [Open Forum for Intelligent Digital Oilfields],
 
 ### ☑️ As the Inventor and Software Author of AHMM
 <table border="10">
+  <tr>
     <td>
     <br>
     In 2022, invented a new kind of mind map called Arthur's Holographic Mind Map (AHMM) based on the principles of Big Systems View, and developed specialized software using JavaScript. It is still being continuously updated to this day.<br><br>
@@ -85,6 +87,7 @@ To Download and Use Offline: http://www.holomind.com.cn/ahmm/downloads/ahmm阿�
 
 ### ☑️ As an Old Programmer Keeping Coding / Coder Keeping Thinking
 <table border="10">
+  <tr>
     <td>
     <br>
     Love programming, and switched from geophysical exploration to programming in the VMS/DOS/Unix era. <br><br>
@@ -134,6 +137,7 @@ http://www.holomind.com.cn <br>
 
 ### ☑️ 《大系统观》作者
 <table border="10">
+  <tr>
     <td>
         2016年完成了开源著作：<br>
       &nbsp;&nbsp;&nbsp;&nbsp;《大系统观：看世界的大视野大思维大格局大超越》<br><br>
@@ -153,6 +157,7 @@ http://www.holomind.com.cn <br>
 
 ### ☑️ [数字油田]概念提出者 / 践行者
 <table border="10">
+  <tr>
     <td>
     <br>
     1999年，在全球范围内最先提出数字油田(Digital Oilfield)理念。<br><br>
@@ -174,6 +179,7 @@ http://www.holomind.com.cn <br>
 
 ### ☑️ 阿色全息脑图（AHMM）发明者和软件作者
 <table border="10">
+  <tr>
     <td>
     <br>
     2022年，应用大系统观思想原理，发明了一种新的思维导图——阿色全息脑图（AHMM, Arthur's Holographic Mind Map），并用 JavaScript 开发了专用软件，至今仍在持续更新。<br><br>
@@ -195,6 +201,7 @@ http://www.holomind.com.cn <br>
 
 ### ☑️ 坚持编程/思考的老程序猿
 <table border="10">
+  <tr>
     <td>
     <br>
     酷爱编程，VMS/DOS/Unix时代从地球物理勘探专业转行入坑的老程序员，从FORTRAN、SQL、BASIC、C、HTML、ASP、JS、……，一直到现在的Python，都玩过。<br><br>
