@@ -1,8 +1,7 @@
 <img alt="Arthur Pic" src="arthurkeepcoding2.png">
-Repositories / 仓库：<a href="https://bgithub.xyz/arthurqwang/ahmm">阿色全息脑图(AHMM)</a>
-https://bgithub.xyz/arthurqwang/ahmm
-https://bgithub.xyz/arthurqwang/ahmm
-https://bgithub.xyz/arthurqwang/ahmm
+Repositories / 仓库：<a href="https://github.com/arthurqwang/ahmm">阿色全息脑图(AHMM)</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/arthurqwang/bsv">大系统观(BSV)</a>&nbsp;&nbsp;&nbsp;
+
 
 #### [中文🔃](#english)
 # About Me
