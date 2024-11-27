@@ -1,7 +1,4 @@
-<img alt="Arthur Pic" src="wq-bsv200.jpg">
-
-## A Thinker Keeping Coding: taking a plunger, and claiming being able to drain water
-## 坚持编程的思想者：手拿皮搋子，号称会通下水道
+<img alt="Arthur Pic" src="arthurkeeocoding2.png">
 
 #### [中文🔃](#english)
 # About Me
