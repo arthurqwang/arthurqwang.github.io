@@ -2,9 +2,9 @@
 Repositories / 仓库：<a href="https://bgithub.xyz/arthurqwang/ahmm">阿色全息脑图(AHMM)</a>&nbsp;&nbsp;&nbsp;
 <a href="https://bgithub.xyz/arthurqwang/bsv">大系统观(BSV)</a>&nbsp;&nbsp;&nbsp;
 <a href="https://bgithub.xyz/arthurqwang/tools_self_made">自制工具(Tools)</a>&nbsp;&nbsp;&nbsp;
+<a href="https://bgithub.xyz/arthurqwang/AHMMs_of_Western_Philosophers">西哲大咖们全息脑图(AHMMs of Western Philosophers)</a>&nbsp;&nbsp;&nbsp;
 
-
-
+https://bgithub.xyz/arthurqwang/AHMMs_of_Western_Philosophers
 
 https://bgithub.xyz/arthurqwang/tools_self_made
 
