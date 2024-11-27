@@ -1,3 +1,6 @@
+## A Thinker Keeping Coding: taking a plunger, and claiming being able to drain water
+## 坚持编程的思想者：手拿皮搋子，号称会通下水道
+
 #### [中文🔃](#english)
 # About Me
 ## Arthur Q. W. (ArthurTreeNewBee): a Thinker Keeping Coding
