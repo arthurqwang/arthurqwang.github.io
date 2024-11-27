@@ -15,7 +15,7 @@
   </tr>
     <tr>
     <td colspan="2">
-    Official Website of [Big Systems View]: <a href="http://www.holomind.com.cn">ppp</a>
+    Official Website of [Big Systems View]: <a href="http://www.holomind.com.cn">http://www.holomind.com.cn</a>
   <br><br>
     </td>
   </tr>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      Based on the version 1.0 of the original book, various materials (PPT courseware, videos, blogs, articles, etc.) with more complete ideas and richer contents have been formed through continuous iteration. All materials and the original book can be retrieved and downloaded on the Internet, or go to the official website of the [Big Systems View]: http://www.holomind.com.cn .
+      Based on the version 1.0 of the original book, various materials (PPT courseware, videos, blogs, articles, etc.) with more complete ideas and richer contents have been formed through continuous iteration. All materials and the original book can be retrieved and downloaded on the Internet, or go to the official website of the [Big Systems View]: <a href="http://www.holomind.com.cn">http://www.holomind.com.cn</a> .
       <br><br>
     </td>
   </tr>
@@ -80,8 +80,8 @@ In 2013, jointly established the [Open Forum for Intelligent Digital Oilfields],
 Software ahmm.html can be used online or downloaded for offline use.
 It has some magical characteristics of a holographic organic system: data and execution code are integrated, it can save data for itself, and can infinitely run and reproduce, that is, the generated AHMM can continue to generate the next generation.
       <br><br>
-To Use Online: http://www.holomind.com.cn/ahmm/ahmm.html<br><br>
-To Download and Use Offline: http://www.holomind.com.cn/ahmm/downloads/ahmm阿色全息脑图H2024_9_19_12.zip<br><br>
+To Use Online: <a href="http://www.holomind.com.cn/ahmm/ahmm.html">http://www.holomind.com.cn/ahmm/ahmm.html</a><br><br>
+To Download and Use Offline: <a href="http://www.holomind.com.cn/ahmm/downloads/ahmm阿色全息脑图H2024_9_19_12.zip">http://www.holomind.com.cn/ahmm/downloads/ahmm阿色全息脑图H2024_9_19_12.zip</a><br><br>
     </td>
   </tr>
 </table>
@@ -109,7 +109,7 @@ To Download and Use Offline: http://www.holomind.com.cn/ahmm/downloads/ahmm阿�
 </table>
 
 ### Welcome to Web Site / WeChat Official Account of BSV
-http://www.holomind.com.cn <br>
+<a href="http://www.holomind.com.cn">http://www.holomind.com.cn</a><br>
 <img alt="BSV WeChat Code" src="wechat_code.jpg">
 
 <br><br>
@@ -130,7 +130,7 @@ http://www.holomind.com.cn <br>
   </tr>
   <tr>
     <td colspan="2">
-    【大系统观】官网：http://www.holomind.com.cn
+    【大系统观】官网：<a href="http://www.holomind.com.cn">http://www.holomind.com.cn</a>
       <br><br>
     </td>
   </tr>
@@ -150,7 +150,7 @@ http://www.holomind.com.cn <br>
   </tr>
   <tr>
     <td colspan="2">
-      在原书1.0版本基础上，通过不断迭代，形成了思想更加完备、内容更加丰富的各种资料（PPT课件、视频、公众号、文章等）。所有资料以及原书均可在互联网上检索并下载，或者，到【大系统观】官网：http://www.holomind.com.cn 下载。
+      在原书1.0版本基础上，通过不断迭代，形成了思想更加完备、内容更加丰富的各种资料（PPT课件、视频、公众号、文章等）。所有资料以及原书均可在互联网上检索并下载，或者，到【大系统观】官网：<a href="http://www.holomind.com.cn">http://www.holomind.com.cn</a> 下载。
       <br><br>
     </td>
   </tr>
@@ -193,8 +193,8 @@ http://www.holomind.com.cn <br>
     AHMM 用于系统升维思考。世间每项事物都是一个系统，都有一个核心 —— 吸引子@。全息脑图以系统的观点看待世界，专注系统的结构信息——全息，抓住事物的本质，透过表象和数据发现规律。<br><br>
     阿色全息脑图制作软件 ahmm.html，可在线使用，也可下载后离线使用。它具有神奇的全息有机系统的特点：数据与执行码一体化，能自己给自己保存数据，并能够无限运行繁衍，即生成的脑图可以继续生成下一代脑图。
     <br><br>
-    在线使用：http://www.holomind.com.cn/ahmm/ahmm.html<br><br>
-    下载后离线使用：http://www.holomind.com.cn/ahmm/downloads/ahmm阿色全息脑图H2024_9_19_12.zip<br><br>
+    在线使用：<a href="http://www.holomind.com.cn/ahmm/ahmm.html">http://www.holomind.com.cn/ahmm/ahmm.html</a><br><br>
+    下载后离线使用：<a href="http://www.holomind.com.cn/ahmm/downloads/ahmm阿色全息脑图H2024_9_19_12.zip">http://www.holomind.com.cn/ahmm/downloads/ahmm阿色全息脑图H2024_9_19_12.zip</a><br><br>
     </td>
   </tr>
 </table>
@@ -223,5 +223,5 @@ http://www.holomind.com.cn <br>
 </table>
 
 ### 欢迎访问大系统观官网 / 微信公众号
-http://www.holomind.com.cn <br>
+<a href="http://www.holomind.com.cn">http://www.holomind.com.cn</a><br>
 <img alt="BSV WeChat Code" src="wechat_code.jpg">
