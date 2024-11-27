@@ -1,10 +1,10 @@
 <img alt="Arthur Pic" src="arthurkeepcoding2.png">
-Official Repositories / 主站仓库：<a href="https://github.com/arthurqwang/ahmm">阿色全息脑图(AHMM)</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/arthurqwang/bsv">大系统观(BSV)</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/arthurqwang/tools_self_made">自制工具(Tools)</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/arthurqwang/AHMMs_of_Western_Philosophers">西哲大咖们全息脑图(AHMMs of Western Philosophers)</a>
+Official Repos / 主仓：<a href="https://bgithub.xyz/arthurqwang/ahmm">阿色全息脑图(AHMM)</a>&nbsp;&nbsp;&nbsp;
+<a href="https://bgithub.xyz/arthurqwang/bsv">大系统观(BSV)</a>&nbsp;&nbsp;&nbsp;
+<a href="https://bgithub.xyz/arthurqwang/tools_self_made">自制工具(Tools)</a>&nbsp;&nbsp;&nbsp;
+<a href="https://bgithub.xyz/arthurqwang/AHMMs_of_Western_Philosophers">西哲大咖们全息脑图(AHMMs of Western Philosophers)</a>
 <br>
-Mirrored Repositories / 镜像仓库：<a href="https://bgithub.xyz/arthurqwang/ahmm">阿色全息脑图(AHMM)</a>&nbsp;&nbsp;&nbsp;
+Mirror Repos / 镜仓：<a href="https://bgithub.xyz/arthurqwang/ahmm">阿色全息脑图(AHMM)</a>&nbsp;&nbsp;&nbsp;
 <a href="https://bgithub.xyz/arthurqwang/bsv">大系统观(BSV)</a>&nbsp;&nbsp;&nbsp;
 <a href="https://bgithub.xyz/arthurqwang/tools_self_made">自制工具(Tools)</a>&nbsp;&nbsp;&nbsp;
 <a href="https://bgithub.xyz/arthurqwang/AHMMs_of_Western_Philosophers">西哲大咖们全息脑图(AHMMs of Western Philosophers)</a>
