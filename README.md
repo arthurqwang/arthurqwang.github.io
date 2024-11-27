@@ -15,7 +15,7 @@
   </tr>
     <tr>
     <td colspan="2">
-    Official Website of [Big Systems View]: http://www.holomind.com.cn
+    Official Website of [Big Systems View]: <a href="http://www.holomind.com.cn">ppp</a>
   <br><br>
     </td>
   </tr>
