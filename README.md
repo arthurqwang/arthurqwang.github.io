@@ -15,7 +15,7 @@
   </tr>
     <tr>
     <td colspan="2">
-    Official Website of [Big Systems View]: [http://www.holomind.com.cn](http://www.holomind.com.cn)
+    Official Website of [Big Systems View]: http://www.holomind.com.cn
   <br><br>
     </td>
   </tr>
