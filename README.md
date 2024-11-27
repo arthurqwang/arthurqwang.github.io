@@ -1,4 +1,4 @@
-<img alt="Arthur Pic" src="arthurkeeocoding2.png">
+<img alt="Arthur Pic" src="arthurkeepcoding2.png">
 
 #### [中文🔃](#english)
 # About Me
