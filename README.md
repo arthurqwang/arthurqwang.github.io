@@ -19,6 +19,7 @@ Mirror &nbsp;Repos / 镜仓：<a href="https://bgithub.xyz/arthurqwang/ahmm">阿
       <br>
         Proposed a pioneering thought, the idea of Big Systems View (BSV), based on traditional systems theory and systems engineering thinking, and combined with own long-term and rich experience in IT & Other systems construction.<br><br>
         BSV mainly includes System Structure Dynamics, Holographic Organic System Theory, BSV Philosophy and relevant methodologies, which are applied in the domain of Digital/Intelligent Oilfields and AI development applications.<br><br>
+        In particular, BSV provides direction, methodology, and philosophical foundation for the development of Artificial Intelligence, Complex Systems, and other scientific technologies.<br><br>
     </td>
     <td><img alt="BSV Logo" src="BSV_Logo_200.jpg"></td>
   </tr>
@@ -136,6 +137,7 @@ To Download and Use Offline: <a href="http://www.holomind.com.cn/ahmm/downloads/
       <br>
     基于传统的系统论和系统工程思想，结合自身长期、丰富的信息化、数智化建设和其他专业领域工作经验，开创性地提出了全新的大系统观思想。<br><br>
     大系统观思想主要包括系统结构动力学、全息有机系统论、大系统哲学和方法论，在其应用于数字/智能油田、大型企业与组织数智化建设和AI开发领域的过程中，显示出了重要指导作用。<br><br>
+    特别是，大系统观为人工智能、复杂系统和其他科学技术发展提供方向、方法论和哲学基础。<br><br>
     </td>
     <td><img alt="BSV Logo" src="BSV_Logo_200.jpg"></td>
   </tr>
