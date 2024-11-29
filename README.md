@@ -117,7 +117,7 @@ To Download and Use Offline: <a href="http://www.holomind.com.cn/ahmm/downloads/
   </tr>
 </table>
 
-☆ All content listed on GitHub is created by Arthur in my spare time and has no relation to the company I work for. The relevant content has been made public and declassified. If it involves corporate business, please contact the relevant institutions.
+☆ All content listed on GitHub is created by Arthur in my spare time and has no relation to the companies I am working and ever worked for. The relevant content has been made public and declassified. If it involves corporate business, please contact the relevant institutions.
 
 ### Welcome to Web Site / WeChat Official Account of BSV
 <a href="http://www.holomind.com.cn">http://www.holomind.com.cn</a><br>
