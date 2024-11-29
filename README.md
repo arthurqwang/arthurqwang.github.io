@@ -233,7 +233,7 @@ To Download and Use Offline: <a href="http://www.holomind.com.cn/ahmm/downloads/
   </tr>
 </table>
 
-☆ 在GitHub所列内容皆为阿色业余时间所做，与职业工作无关。相关内容已做过期公开和脱密处理。如涉及对公业务，请联系相关机构。
+☆ 在GitHub所列内容皆为阿色业余时间所做，与供职职业工作无关。相关内容已做过期公开和脱密处理。如涉及对公业务，请联系相关机构。
 
 ### 欢迎访问大系统观官网 / 微信公众号
 <a href="http://www.holomind.com.cn">http://www.holomind.com.cn</a><br>
