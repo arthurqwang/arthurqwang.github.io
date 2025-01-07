@@ -58,7 +58,7 @@ Mirror &nbsp;Repos / 镜仓：<a href="https://bgithub.xyz/arthurqwang/ahmm">阿
     <td>
     <br>
     In 1999, proposed the concept of Digital Oilfield at first globally.<br><br>
-    Published numerous academic papers such as "The Research on the Modes and the Developing Strategies of Digital Oilfield of Daqing Oilfield Co., Ltd." and proposed the Digital Oilfield Reference Architecture** over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
+    Published numerous academic papers such as "The Research on the Modes and the Developing Strategies of Digital Oilfield of Daqing Oilfield Co., Ltd." and proposed the Digital Oilfield Reference Architecture over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
     Simultaneously, exert all my strength to push the practices of Digital Oilfields construction forward. <br>
     </td>
     <td><img alt="DOF DORA"  src="DOF_DORA.jpg"></td>
