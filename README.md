@@ -58,7 +58,7 @@ Mirror &nbsp;Repos / 镜仓：<a href="https://bgithub.xyz/arthurqwang/ahmm">阿
     <td>
     <br>
     In 1999, proposed the concept of Digital Oilfield at first globally.<br><br>
-    Published numerous academic papers such as "The Research on the Modes and the Developing Strategies of Digital Oilfield of Daqing Oilfield Co., Ltd."  over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
+    Published numerous academic papers such as "The Research on the Modes and the Developing Strategies of Digital Oilfield of Daqing Oilfield Co., Ltd." and proposed the Digital Oilfield Reference Architecture** over the past years, leading the trend of Digital/Intelligent Oilfield research and construction in China.<br><br>
     Simultaneously, exert all my strength to push the practices of Digital Oilfields construction forward. <br>
     </td>
     <td><img alt="DOF DORA"  src="DOF_DORA.jpg"></td>
@@ -69,6 +69,14 @@ Mirror &nbsp;Repos / 镜仓：<a href="https://bgithub.xyz/arthurqwang/ahmm">阿
       In 2003, independently developed, hosted, and operated the [Digital Oilfield Forum] website, providing a communication platform for experts, scholars, entrepreneurs, engineers, managers, and service providers in the global DOF Domain, and having a significant influence in the industry.<br><br>
 In 2013, jointly established the [Open Forum for Intelligent Digital Oilfields], which adopts an integrated online and offline approach to conduct research, application, communication, and cooperation on digital/smart/intelligent oilfield construction, striving to promote the development of construction of IDOF.<br><br>
       <img alt="DOF DORA"  src="DOF_WEB.png">
+      <br><br>
+    </td>
+  </tr>
+<tr>
+    <td colspan="2">
+      <br>
+      In 2024, proposed the Architectrue for Intelligent & Digital Oilfields Based-on AI.<br><br>
+      <img alt="AIDOBAI"  src="AIDOBAI.png">
       <br><br>
     </td>
   </tr>
@@ -176,7 +184,7 @@ To Download and Use Offline: <a href="http://www.holomind.com.cn/ahmm/downloads/
     <td>
     <br>
     1999年，在全球范围内最先提出数字油田(Digital Oilfield)理念。<br><br>
-    多年来陆续发表《大庆油田有限责任公司数字油田模式与发展战略研究》等大量学术论文，引领中国数字/智能油田研究与建设浪潮。<br><br>
+    多年来陆续发表《大庆油田有限责任公司数字油田模式与发展战略研究》等大量学术论文，提出了数字油田参考架构，引领中国数字/智能油田研究与建设浪潮。<br><br>
     </td>
     <td><img alt="DOF DORA"  src="DOF_DORA.jpg"  height="150"></td>
   </tr>
@@ -186,6 +194,14 @@ To Download and Use Offline: <a href="http://www.holomind.com.cn/ahmm/downloads/
       2003年，独立开发并主持运营【数字油田论坛】网站，为全球数字油田建设的专家、学者、企业家、工程师、管理人员以及服务商提供了交流平台，在业界具有较大影响力。<br><br>
       2013年，联合创立【智能数字油田开放论坛】，采用线上线下一体化的方式，开展油田数智化建设的研究、应用、交流与合作，努力推动数智油田建设发展。<br><br>
       <img alt="DOF DORA"  src="DOF_WEB.png">
+      <br><br>
+    </td>
+  </tr>
+<tr>
+    <td colspan="2">
+      <br>
+      2024年，提出基于AI底座的数智油气田参考架构。<br><br>
+      <img alt="AIDOBAI"  src="AIDOBAI.png">
       <br><br>
     </td>
   </tr>
